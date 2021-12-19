@@ -13,3 +13,4 @@ Essa aplicação foi desenvolvida no curso de frontend avançado da Alura. É um
 - ESLint
 - Husky
 - Commitizen
+- Commitlint
