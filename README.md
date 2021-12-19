@@ -8,3 +8,5 @@ Essa aplicação foi desenvolvida no curso de frontend avançado da Alura. É um
 ## Tecnologias utilizadas
 - Next
 - Styled Components
+- ESLint
+- Husky
