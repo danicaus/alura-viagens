@@ -28,4 +28,4 @@ jobs:
       - name: Install dependencies
         run: yarn install
       - name: Rodando o Linter
-        run: eslint --ignore-path .gitignore .
+        run: yarn lint
